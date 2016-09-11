@@ -11,9 +11,9 @@
 
 	<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
 	
-	<script>window.jQuery || document.write('<script src="../jquery/jquery-2.2.4.min.js"><\/script>');</script>
+	<script>window.jQuery || document.write('<script src="jquery/jquery-2.2.4.min.js"><\/script>');</script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
 	
 	<?php echo $script; ?>
 	
